@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1qpg0kGDbogkMhtZZrhwUNfgZcVaKysqGcG+zrkBQ8xim6Iih0liG1qm99iDz20jNh1IlByZ5bGRbQRgfHBRjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Fundamentals and Unit Testing\\19.Unit Testing - Arrays and Lists\\Resurces-Unit-Testing-Arrays-Lists\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
